@@ -6,6 +6,8 @@
     "codespaces": {
       "openFiles": [
         "README.md",
+        "data/processed/episense_anual_with_risk.csv",
+        "data/iso3_cenrtroids_cleaned.csv",
         "app.py"
       ]
     },
