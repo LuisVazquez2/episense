@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+__pycache__/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+instance/
+*.log
+*.csv
+paho_all_indicators.csv
