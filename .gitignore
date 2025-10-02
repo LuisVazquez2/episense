@@ -9,5 +9,4 @@ venv/
 *.sqlite3
 instance/
 *.log
-*.csv
 paho_all_indicators.csv
